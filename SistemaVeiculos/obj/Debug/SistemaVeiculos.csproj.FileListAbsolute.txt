@@ -1,0 +1,7 @@
+C:\Users\Dgabriel\Documents\Projetos_TCE\SistemaVeiculos\SistemaVeiculos\SistemaVeiculos\bin\Debug\SistemaVeiculos.exe.config
+C:\Users\Dgabriel\Documents\Projetos_TCE\SistemaVeiculos\SistemaVeiculos\SistemaVeiculos\bin\Debug\SistemaVeiculos.exe
+C:\Users\Dgabriel\Documents\Projetos_TCE\SistemaVeiculos\SistemaVeiculos\SistemaVeiculos\bin\Debug\SistemaVeiculos.pdb
+C:\Users\Dgabriel\Documents\Projetos_TCE\SistemaVeiculos\SistemaVeiculos\SistemaVeiculos\obj\Debug\SistemaVeiculos.csprojAssemblyReference.cache
+C:\Users\Dgabriel\Documents\Projetos_TCE\SistemaVeiculos\SistemaVeiculos\SistemaVeiculos\obj\Debug\SistemaVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\Dgabriel\Documents\Projetos_TCE\SistemaVeiculos\SistemaVeiculos\SistemaVeiculos\obj\Debug\SistemaVeiculos.exe
+C:\Users\Dgabriel\Documents\Projetos_TCE\SistemaVeiculos\SistemaVeiculos\SistemaVeiculos\obj\Debug\SistemaVeiculos.pdb
